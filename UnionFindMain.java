@@ -43,8 +43,8 @@ static int[][] linearr_One = new int[71][71]; // 2d array to store the image
 			}
 			if(i!=70)
 			{
-			c= br.read();
-			System.out.print((char) c);
+	//		c= br.read();
+	//		System.out.print((char) c);
 			c= br.read();
 			System.out.print((char) c);
 			}
@@ -195,3 +195,4 @@ static int[][] linearr_One = new int[71][71]; // 2d array to store the image
 	
 	
 }
+
